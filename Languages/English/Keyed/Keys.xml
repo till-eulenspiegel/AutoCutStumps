@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<SelectAreaForAutocutStump>Select the area in which stumps should be marked for harvest.</SelectAreaForAutocutStump>
+	
+	<SettingsSpawnOutsideOption>Spawn stumps outside cut area</SettingsSpawnOutsideOption>
+	<SettingsSpawnOutsideDescription>Spawn stumps in the map that are outside of cut area.</SettingsSpawnOutsideDescription>
+
+	<SettingsAutocutNotChoppedOption>Autocut stumps from trees that weren't chopped</SettingsAutocutNotChoppedOption>
+	<SettingsAutocutNotChoppedDescription>Trees can die for many reasons. If a stump dies in the cut area and you didn't chop it; should it be marked for harvest?</SettingsAutocutNotChoppedDescription>
+</LanguageData>
